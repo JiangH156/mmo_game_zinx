@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1499cd4a-543b-4cef-b6fa-ce40f368f646" name="mmo_game_zinx">
+        <fileTransfer rootFolder="/root/go" accessType="SFTP" host="175.178.237.114" port="22" sshConfigId="becc20e9-4598-439e-b337-a8fb48d955bf" sshConfig="Zinx">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
